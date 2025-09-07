@@ -1,0 +1,140 @@
+{
+  "feature_importance": [
+    {
+      "feature": "views_vs_channel_avg",
+      "importance": 1.4640300273895264
+    },
+    {
+      "feature": "likes_vs_channel_avg",
+      "importance": 0.26943451166152954
+    },
+    {
+      "feature": "comments_vs_channel_avg",
+      "importance": 0.21964947879314423
+    },
+    {
+      "feature": "composition_features.visual_complexity",
+      "importance": 0.04595796763896942
+    },
+    {
+      "feature": "views_per_day",
+      "importance": 0.04034893959760666
+    },
+    {
+      "feature": "likes_per_day",
+      "importance": 0.01680375263094902
+    },
+    {
+      "feature": "color_features.warmth_score",
+      "importance": 0.012419117614626884
+    },
+    {
+      "feature": "comments_per_day",
+      "importance": 0.007893940433859825
+    },
+    {
+      "feature": "composition_features.thirds_adherence",
+      "importance": 0.0034175808541476727
+    },
+    {
+      "feature": "composition_features.symmetry.radial",
+      "importance": 0.0029573258943855762
+    },
+    {
+      "feature": "engagement_rate",
+      "importance": 0.0024241760838776827
+    },
+    {
+      "feature": "face_features.num_faces",
+      "importance": 0.0011186444899067283
+    },
+    {
+      "feature": "color_features.brightness",
+      "importance": 0.0010511757573112845
+    },
+    {
+      "feature": "basic_features.word_length",
+      "importance": 0.0009642521035857499
+    },
+    {
+      "feature": "color_features.color_entropy",
+      "importance": 0.0009377541136927903
+    },
+    {
+      "feature": "composition_features.symmetry.vertical",
+      "importance": 0.0005887857987545431
+    },
+    {
+      "feature": "basic_features.char_length",
+      "importance": 0.00048535881796851754
+    },
+    {
+      "feature": "color_features.local_contrast",
+      "importance": 0.0001190895345644094
+    },
+    {
+      "feature": "basic_features.non_alnum_chars",
+      "importance": 3.67679022019729e-05
+    },
+    {
+      "feature": "pattern_features.number_count",
+      "importance": 3.627283876994625e-05
+    },
+    {
+      "feature": "composition_features.edge_density",
+      "importance": 1.454228004149627e-05
+    },
+    {
+      "feature": "basic_features.avg_word_length",
+      "importance": 1.2793968380719889e-05
+    },
+    {
+      "feature": "sentiment_features.sentiment_neu",
+      "importance": 0.0
+    },
+    {
+      "feature": "pattern_features.question_count",
+      "importance": 0.0
+    },
+    {
+      "feature": "pattern_features.exclamation_count",
+      "importance": 0.0
+    },
+    {
+      "feature": "sentiment_features.subjectivity",
+      "importance": 0.0
+    },
+    {
+      "feature": "composition_features.symmetry.horizontal",
+      "importance": 0.0
+    },
+    {
+      "feature": "sentiment_features.sentiment_neg",
+      "importance": 0.0
+    },
+    {
+      "feature": "sentiment_features.sentiment_pos",
+      "importance": 0.0
+    },
+    {
+      "feature": "sentiment_features.sentiment_compound",
+      "importance": 0.0
+    },
+    {
+      "feature": "face_features.total_face_area_ratio",
+      "importance": 0.0
+    },
+    {
+      "feature": "pattern_features.emoji_count",
+      "importance": 0.0
+    }
+  ],
+  "group_importance": {
+    "performance_metrics": 0.28865498304367065,
+    "visual_basic": 0.002607630332931876,
+    "visual_composition": 0.008822700940072536,
+    "text_basic": 0.00037479319144040346,
+    "text_sentiment": 0.0,
+    "text_patterns": 9.068209692486562e-06
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "performance_metrics": [
+    "views_per_day",
+    "likes_per_day",
+    "comments_per_day",
+    "views_vs_channel_avg",
+    "likes_vs_channel_avg",
+    "comments_vs_channel_avg",
+    "engagement_rate"
+  ],
+  "visual_basic": [
+    "color_features.brightness",
+    "color_features.contrast",
+    "color_features.color_entropy",
+    "color_features.warmth_score",
+    "face_features.num_faces",
+    "face_features.total_face_area_ratio"
+  ],
+  "visual_composition": [
+    "composition_features.edge_density",
+    "composition_features.visual_complexity",
+    "composition_features.thirds_adherence",
+    "composition_features.symmetry.horizontal",
+    "composition_features.symmetry.vertical",
+    "composition_features.symmetry.radial"
+  ],
+  "text_basic": [
+    "basic_features.char_length",
+    "basic_features.word_length",
+    "basic_features.avg_word_length",
+    "basic_features.non_alnum_chars"
+  ],
+  "text_sentiment": [
+    "sentiment_features.sentiment_compound",
+    "sentiment_features.sentiment_pos",
+    "sentiment_features.sentiment_neg",
+    "sentiment_features.sentiment_neu",
+    "sentiment_features.subjectivity"
+  ],
+  "text_patterns": [
+    "pattern_features.number_count",
+    "pattern_features.question_count",
+    "pattern_features.exclamation_count",
+    "pattern_features.emoji_count"
+  ]
+}
